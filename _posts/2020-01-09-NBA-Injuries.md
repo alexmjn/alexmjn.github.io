@@ -9,7 +9,7 @@ I cleaned, explored, and analyzed NBA injury reports from 2010-2018.
 
 # Analysis
 
-A writeup of what I found can be seen in [my Medium article](https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c)
+A writeup of what I found can be seen in [my Medium article](https://medium.com/@ajenkneary/injuries-and-rest-in-the-nba-2c39a8bd261c). 
 
 # Code
 
