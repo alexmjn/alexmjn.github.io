@@ -90,3 +90,8 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+goodreads:
+  name: "Goodreads"
+  baseURL: https://goodreads.com"
+  icon: "http://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Goodreads-icon.png"
