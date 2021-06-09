@@ -7,3 +7,9 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+# unfinished posts
+_posts\2020-02-07-Spotify.md
+_posts\2020-05-25-Bayes.md
+_posts\2020-04-01-Allay.md
+_posts\_notebook\2020-09-16-Smart-Players.md

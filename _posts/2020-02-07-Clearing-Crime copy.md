@@ -6,12 +6,15 @@ title: Predicting Clearance Rates of Serious Crimes
 
 ## Goals
 
-This project applied predictive machine learning models to a real-world data set representing an important problem.
+The goal of this project was to apply predictive modeling to a real-world problem; in this case,
+predicting whether or not a given crime would be cleared by police.
 
 ## Summary
 
-I used data from The Trace on 747,000 criminal incidents to investigate what factors were associated with whether or not a crime got cleared.
-
+I used data from The Trace on 747,000 criminal incidents to investigate what factors were associated clearance rate. I cleaned the
+messy data set, explored its characteristics, and used that information to guide modeling decisions including
+feature selection and feature engineering. Finally, I tested a variety of predictive modeling techniques to
+maximize accuracy in predicting whether a crime would be cleared.
 
 ## Analysis
 
